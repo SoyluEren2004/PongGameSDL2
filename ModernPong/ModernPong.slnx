@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ModernPong/ModernPong.vcxproj" Id="af4c5e5e-1b46-4fe7-bcd8-c48a977cbf34" />
+</Solution>

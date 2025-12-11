@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Eren\OneDrive\Belgeler\ModernPong\ModernPong\src\main.cpp(84,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eren\OneDrive\Belgeler\ModernPong\ModernPong\src\main.cpp(88,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ModernPong.vcxproj -> C:\Users\Eren\OneDrive\Belgeler\ModernPong\x64\Debug\ModernPong.exe
